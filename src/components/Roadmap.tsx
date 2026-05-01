@@ -12,19 +12,23 @@ const roadmapItems = [
   {
     phase: "Phase 2",
     title: "Privacy Audit & WhatsApp",
-    description: "External security audit of our sharding protocol.",
+    description: "Launch of core features.",
     status: "upcoming"
   },
   {
     phase: "Phase 3",
-    title: "Anonymous Liquidity",
-    description: "Integration with privacy-preserving DeFi protocols.",
+    // title: "Anonymous Liquidity",
+    title: "Coming Soon",
+    description: "Antcipate.",
+    // description: "Integration with privacy-preserving DeFi protocols.",
     status: "upcoming"
   },
   {
     phase: "Phase 4",
-    title: "Global Privacy Layer",
-    description: "Expansion into decentralized messaging protocols for 100% censorship-resistant access.",
+    // title: "Global Privacy Layer",
+    title: "Coming Soon",
+    description: "Anticipate.",
+    // description: "Expansion into decentralized messaging protocols for 100% censorship-resistant access.",
     status: "upcoming"
   }
 ];
