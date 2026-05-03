@@ -15,7 +15,7 @@ const features = [
   {
     icon: <Shield size={32} />,
     title: "Self-Custody First",
-    description: "You own your keys. You own your crypto. FlexusCore provides the interface; you provide the control."
+    description: "You own your keys. You own your crypto. Flexus provides the interface; you provide the control."
   },
   {
     icon: <Zap size={32} />,

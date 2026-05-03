@@ -5,7 +5,7 @@ const roadmapItems = [
   {
     phase: "Phase 1",
     title: "Telegram Alpha",
-    description: "Launch of core features: Buy, Sell, and Send with integrated zero-trust encryption.",
+    description: "Launch of core features: Buy, Sell, Receive and Send with integrated zero-trust encryption.",
     status: "active",
     current: true
   },

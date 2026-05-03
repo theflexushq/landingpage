@@ -22,7 +22,7 @@ export const Hero: FC = () => {
         </p>
 
         <div className="hero-actions fade-up delay-3">
-          <a href="https://t.me/theflexusbot" className="btn-secondary" target='_blank'>
+          <a href="https://t.me/flexusHQbot" className="btn-secondary" target='_blank'>
             <Send size={20} />
             Continue on Telegram
           </a>
